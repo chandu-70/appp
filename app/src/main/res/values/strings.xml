@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartSplit-X</string>
+    <string name="app_tagline">Group Expenses &amp; Receipt Helper</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_groups">Groups</string>
+    <string name="nav_ai_parser">AI Parser</string>
+    <string name="nav_personal">Personal</string>
+    <string name="reset_sample_data">Reset Sample Data</string>
+    <string name="currency_label">Currency</string>
+    <string name="ai_parser_title">AI Receipt &amp; Chat Parser</string>
+    <string name="try_sample_chat">Try Sample Chat</string>
+    <string name="add_to_group">Add to Group</string>
+    <string name="mark_as_settled">Mark as Settled</string>
+</resources>

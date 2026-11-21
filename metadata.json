@@ -1,0 +1,6 @@
+{
+  "name": "SmartSplit-X",
+  "description": "Group Expenses & Receipt Helper — track personal daily expenses, split shared group costs, and parse receipts or chat logs with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
